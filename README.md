@@ -1,7 +1,7 @@
 # Data Communication Summary (HND-II-Computer Science)
 
 # 1. Data Communications
-Data refers to elements of information processing presented in whatever form, and agreed upon by the parties creating and using the data. Communications is the exchange of information agreed upon between two or more points. Telecommunication means communication at a distance. Data communications are the exchange of data between two devices via some form of transmission medium such wire cable. Data communications system em consist consist of communicating devices as a which are made up of a combination of hardware (physical equipment) and software (programs).
+Data refers to elements of information processing presented in whatever form, and agreed upon by the parties creating and using the data. Communications is the exchange of information agreed upon between two or more points. Telecommunication means communication at a distance. Data communications are the exchange of data between two devices via some form of transmission medium such wire cable. Data communications system consist of communicating devices as a which are made up of a combination of hardware (physical equipment) and software (programs).
 
 Data communications refer to the transfer of data between devices or systems through a transmission medium. It involves sending and receiving information between two or more points. Key characteristics of effective data communication are:
 
